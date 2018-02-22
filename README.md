@@ -9,10 +9,10 @@ IMPORTANT - do not change any of the file names or any of the script names. This
 
 3) Then make sure you have the proper permissions to run the 'Set-Permissions.sh' script. To make sure you have the proper permissions to run 'Set-Permissions.sh' open a terminal and type the following:
 
-cd /Desktop
-sudo -s (enter your password)
-chown root /Kali-Linux-Tools/Set-Permissions.sh
-chmod 777 /Kali-Linux-Tools/Set-Permissions.sh
+- cd /Desktop
+- sudo -s (enter your password)
+- chown root /Kali-Linux-Tools/Set-Permissions.sh
+- chmod 777 /Kali-Linux-Tools/Set-Permissions.sh
 
 Now you can open a terminal window, drag and drop the 'Set-Permissions.sh' script in it and hit enter. It will set the proper
 permissions for ALL of the other scripts I wrote which in turn will make the root user the owner of the files and will allow the files to be executed aswell.

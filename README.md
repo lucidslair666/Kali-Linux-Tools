@@ -5,7 +5,7 @@ Some bash scripts I wrote for setting up various tools within the Kali Linux env
 1) In order to properly use these tools you must first move the downloaded folder to the desktop and RENAME from 'Kali-Linux-Tools-master' to 'Kali-Linux-Tools'. 
 2) Copy all of these files into the new folder you made on the desktop. 
 
-IMPORTANT - do not change any of the file names or any of the script names. This is important because within the scripts there are filepaths that are specfic to the names of the directories, if you rename the directory then you'll need rename the file paths within the scripts whoever its better off to just copy all of the files into the 'Kali-Linux-Tools' directory you created on the desktop.
+IMPORTANT - do not change any of the file names or any of the script names. This is important because within the scripts there are filepaths that are specfic to the names of the directories, if you rename the directory then you'll need rename the file paths within the scripts however its better off to just copy all of the files into the 'Kali-Linux-Tools' directory you created on the desktop.
 
 3) Then make sure you have the proper permissions to run the 'Set-Permissions.sh' script. To make sure you have the proper permissions to run 'Set-Permissions.sh' open a terminal and type the following:
 

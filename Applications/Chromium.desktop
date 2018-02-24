@@ -1,7 +1,0 @@
-[Desktop Entry]
-Name=Chromium
-Comment=Start Chromium
-Exec=chromium --no-sandbox
-Icon=applications-internet
-Terminal=false  
-Type=Application

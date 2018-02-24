@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Start x11vnc
-Comment=Start x11vnc
-Exec=/usr/bin/x11vnc -auth guess -forever -loop -noxdamage -repeat -rfbauth /root/.vnc/passwd -rfbport 5900 -shared
-Icon=applications-internet
-Terminal=false  
-Type=Application
-Name[en_US]=x11vnc

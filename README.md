@@ -20,4 +20,4 @@ permissions for ALL of the other scripts I wrote which in turn will make the roo
 You can then open a terminal and drop each of the shell scripts into the terminal window and run them!
 WARNING: the system upgrade scripts are awesome but while updating the system it requires you to enter in some information/make choices about how some programs should run (ex. should non sudo users be able to capture packets within WireShark?). You will need to manually fill these in yourself.
 
-WARNING: I TAKE NO RESPONSIBILITY FOR ANYONE'S ACTIONS EXCEPT MY OWN. I SHARE CODE AND PROJECT IDEAS TO BE ACTIVE IN THE PROGRAMMING COMMUNITY AND TO HELP EDUCATE OTHERS/SELD-EDUCATE MYSELF TOO. EDUCATIONAL PURPOSES ONLY, ALWAYS REMEMBER TO MAKE WISE DECISIONS IN THE CYBER WORLD, I HOLD ZERO RESPONSIBILITY FOR YOUR ACTIONS.
+WARNING: I TAKE NO RESPONSIBILITY FOR ANYONE'S ACTIONS EXCEPT MY OWN. I SHARE CODE AND PROJECT IDEAS TO BE ACTIVE IN THE PROGRAMMING COMMUNITY AND TO HELP EDUCATE OTHERS/SELF-EDUCATE MYSELF TOO. EDUCATIONAL PURPOSES ONLY, ALWAYS REMEMBER TO MAKE WISE DECISIONS IN THE CYBER WORLD, I HOLD ZERO RESPONSIBILITY FOR YOUR ACTIONS.

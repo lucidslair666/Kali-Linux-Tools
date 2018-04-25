@@ -1,5 +1,5 @@
 # Kali-Linux-Tools
-Bash Scripts - Designed for quick software downloading in Kali Linux OS
+Bash Scripts - Designed for quick software downloading & installing in Kali Linux OS
 
 Some bash scripts I wrote for setting up various tools within the Kali Linux environment. 
 1) In order to properly use these tools you must first move the downloaded folder to the desktop and RENAME from 'Kali-Linux-Tools-master' to 'Kali-Linux-Tools'. 
